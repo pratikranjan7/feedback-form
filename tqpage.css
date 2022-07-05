@@ -1,0 +1,23 @@
+html{
+    background-image: url(https://cdn.discordapp.com/attachments/993463957710962780/993924192451969125/unknown.png);
+    background-size: cover;
+    font-family: Bradley Hand, cursive;
+}
+.endmain{
+    background-color: white;
+    width: 700px;
+    height: 400px;
+    margin-left: 25%;
+    margin-top: 10%;
+    border-radius:8px; 
+    background: url(https://cdn.discordapp.com/attachments/993463957710962780/993925815458861207/unknown.png);
+    background-repeat: no-repeat;
+    background-size: 700px;
+}
+.msg {
+    text-align: center;
+    padding-top: 120px;
+    font-size: 300%;
+    font-weight: bold;
+    color: black;
+}

@@ -1,0 +1,65 @@
+html{
+    background-image: url(https://cdn.discordapp.com/attachments/993463957710962780/993924192451969125/unknown.png);
+    background-size: cover;
+    font-family: Bradley Hand, cursive;
+}
+
+body{
+    justify-content: center;
+    display: flex;
+}
+
+form {
+    background: url(https://cdn.discordapp.com/attachments/993463957710962780/993925815458861207/unknown.png);
+    background-size: 1100px;
+    width: 800px;
+    height: 500px;
+    border-radius: 10px;
+    padding: 35px;
+}
+
+h1{
+   text-align: center;
+   color: white;
+}
+
+textarea {
+    width: 412px;
+    height: 100px;
+    resize: none;
+    border-radius: 10px;
+    border: none;
+}
+
+.text {
+    height: 70px;
+    color: black;
+    text-align: right;
+    width: 300px;
+    font-weight: bold;
+
+}
+
+input {
+    border-radius: 5px;
+    border: none;
+    height: 25px;
+}
+
+.radio {
+    border: none;
+    color: white;
+}
+
+.btns {
+    height: 80px;
+}
+
+button {
+    width: 95px;
+    height: 35px;
+    font-family: Bradley Hand, cursive;
+    border-radius: 5px;
+    border: none;
+    font-size: large;
+}
